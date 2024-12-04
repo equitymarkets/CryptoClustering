@@ -10,6 +10,6 @@ The goal of unsupervised learning is to find patterns, structures, or relationsh
 
 PCA can capture as much as possible while minimizing noise in the output. It is often used to smooth the data before applying k-means tests. In the third section we again test ten clusters to run an elbow test and determine an optimal k value of four. In the fourth section we then run the four-cluster k-means on the PCA-adjusted data. 
 
-You can see differences in theh data when comparing the plots side-by-side. When using PCA, we consolidate the total area of the graph from about 627 square units to about 208.
+You can see differences in the data when comparing the plots side-by-side. When using PCA, we consolidate the total area of the graph from about 627 square units to about 208.
 
 We can see that, as would be expected, cryptocurrency prices see more fluctuations over a 7 day period than over a 24 hour period. 
